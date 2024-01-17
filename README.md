@@ -1,4 +1,4 @@
-Code utilized in the paper "Accelerometer-derived "weekend warrior" physical activity pattern and brain health"
+Hi, this is Minjiahao!
 
 <!---
 minjiahaoKAI/minjiahaoKAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
